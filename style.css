@@ -1093,6 +1093,7 @@ h2 span.highlight{
 }
 .feature_title {
     margin-left: 85px;
+    text-align: justify;
 }
 /*======== feature area end  ==========*/
 
@@ -1113,6 +1114,7 @@ h2 span.highlight{
 }
 .single_about_text p{
     margin: 0 0 30px;
+    text-align: justify;
 }
 .witrlistw ul{
     padding: 0;
@@ -1270,9 +1272,11 @@ h2 span.highlight{
 }
 .cal_title p{
     color: var(--whitec);
+    text-align: justify;
 }
 .ttin p{
     color: var(--whitec);
+    text-align: justify;
 }
 .ttin p span{
     color: var(--bgcolor);
@@ -2680,6 +2684,7 @@ h2 span.highlight{
     margin-top: 10px;
     margin-bottom: 30px;
     font-size: 16px;
+    text-align: justify;
 }
 .footer_widget h4 {
     margin-bottom: 20px;
@@ -2707,6 +2712,7 @@ h2 span.highlight{
 }
 .footer_nav ul li {
     padding: 0 0 10px;
+    color: var(--whitec);
 }
 .footer_nav ul li a{
     font-size: 16px;
