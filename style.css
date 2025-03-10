@@ -1286,18 +1286,18 @@ h2 span.highlight{
     padding-top: 70px;
 }
 .inner_counter_area {
-    position: relative;
+    position:relative;
     padding: 0px 30px 0px 30px;
 }
 .inner_counter_sub_cont {
     display: flex;
-    justify-content: left;
+    justify-content: center;
     align-items: baseline;
     margin-top: -25px;
     position: relative;
 }
 .inner_counter_area{
-    text-align: left;
+    text-align: center;
 }
 .inner_counter_sub_cont h3, .inner_counter_sub_cont span {
     font-size: 80px;
