@@ -1184,7 +1184,7 @@ h2 span.highlight{
     position:absolute;
     left: 0;
     right: 0;
-    bottom: 48%;
+    bottom: 43%;
     /* top: auto; */
     z-index: 999;
     display: inline-block;
@@ -1563,9 +1563,9 @@ h2 span.highlight{
 }
 .witr_pslide_custom {
     position: absolute;
-    right: 50%;
+    right: 40%;
     left: 40%;
-    bottom: 150px;
+    bottom: 146px;
     z-index: 9;
     transition: .5s;
     transition: .5s;
